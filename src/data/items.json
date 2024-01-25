@@ -1,25 +1,25 @@
 [
       {
         "id": 1,
-        "name": "Tshirt",
+        "name": "T-Shirt",
         "price": 89.99,
         "imgUrl": "/imgs/tshirt.jpg"
       },
       {
-        "id": 1,
-        "name": "Tshirt",
+        "id": 2,
+        "name": "T-Shirt2",
         "price": 89.99,
         "imgUrl": "/imgs/tshirt.jpg"
       },
       {
-        "id": 1,
-        "name": "Tshirt",
+        "id": 3,
+        "name": "T-Shirt3",
         "price": 89.99,
         "imgUrl": "/imgs/tshirt.jpg"
       },
       {
-        "id": 1,
-        "name": "Tshirt",
+        "id": 4,
+        "name": "T-Shirt4",
         "price": 89.99,
         "imgUrl": "/imgs/tshirt.jpg"
       }
